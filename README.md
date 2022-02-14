@@ -1,2 +1,1 @@
-# passwdgen
-Password Generator
+# Password Generator Starter Code
